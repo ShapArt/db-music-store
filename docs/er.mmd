@@ -1,0 +1,8 @@
+```mermaid
+erDiagram
+  ARTIST ||--o{ ALBUM : has
+  ALBUM ||--o{ TRACK : contains
+  TRACK }o--o{ GENRE : tagged
+  CUSTOMER ||--o{ ORDER : places
+  ORDER ||--o{ ORDER_ITEM : includes
+```
