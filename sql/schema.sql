@@ -50,4 +50,3 @@ CREATE VIEW v_orders_total AS
 SELECT o.id, o.created_at, o.customer_id, SUM(oi.qty*oi.price) AS total
 FROM orders o JOIN order_items oi ON oi.order_id=o.id
 GROUP BY o.id;
-
