@@ -1,46 +1,38 @@
 # db-music-store
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## EN
-db-music-store — practical engineering project by ShapArt.
-
-This repository is part of a modern, portfolio-grade GitHub standard: strong structure, clear onboarding, and predictable contribution flow.
+Educational PostgreSQL database project with schema, seed, and queries.
 
 ## RU
-db-music-store — practical engineering project by ShapArt.
+Educational PostgreSQL database project with schema, seed, and queries.
 
-Этот репозиторий оформлен в современном portfolio-стиле: сильная структура, понятный старт и прозрачный процесс вклада.
+## Why this project matters / Зачем нужен проект
+- Provides educational database architecture examples.
+- Covers schema, seed data, and query practice.
+- Helpful as onboarding material for SQL workflows.
 
-## Highlights / Что важно
-- Fast onboarding with clear usage entry points.
-- Standardized `.github` health files and contribution rules.
-- Ready for scaling with CI, tests, and roadmap growth.
+## Best for / Для кого
+- Students and junior backend/data engineers.
+- Mentors needing a practical SQL teaching scaffold.
 
-## Tech Stack / Технологии
-- PostgreSQL / SQL
-- Schema + seed + query workflow
-- Data-oriented practice setup
+## Quick Run / Быстрый запуск
+- Import schema and seed datasets
+- Execute target queries for validation
 
-## Quick Start / Быстрый старт
-- Import schema
-- Load seed data
-- Run target queries
+## Repository Compass / Навигация
+- README.md - product context and run flow.
+- .github/ - contribution standards, templates, CI policy.
+- Source directories - core implementation and assets.
 
-## Structure / Структура
-- `README.md` - overview and usage entry point.
-- `.github/` - policies, templates, workflow config.
-- Source directories - implementation and assets.
+## Topics / Темы
+$topics
 
-## Roadmap / Планы
-- Improve verification and automation coverage.
-- Expand examples and practical scenarios.
-- Keep docs synchronized with real behavior.
-
-## Contributing / Вклад
-See `.github/CONTRIBUTING.md`.
+## Contribution / Вклад
+See .github/CONTRIBUTING.md and open a focused PR.
 
 ## License / Лицензия
-See `LICENSE`.
+See LICENSE.
