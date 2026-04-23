@@ -1,172 +1,52 @@
-﻿# IS «Музыкальный магазин» — БД (учебный проект)
+# db-music-store
 
-[![CI](https://github.com/ShapArt/db-music-store/actions/workflows/ci.yml/badge.svg)](https://github.com/ShapArt/db-music-store/actions/workflows/ci.yml) [![license](https://img.shields.io/github/license/ShapArt/db-music-store)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/ShapArt/db-music-store)
+![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store)
+![Language](https://img.shields.io/github/languages/top/ShapArt/db-music-store)
 
+## EN Overview
+Educational PostgreSQL DB with schema/seed/queries
 
+## RU Описание
+Educational PostgreSQL DB with schema/seed/queries
 
+## EN Features
+- Clear project purpose and maintainable structure.
+- Standardized community and contribution files.
+- Consistent documentation style across account repositories.
 
+## RU Возможности
+- Понятная цель проекта и поддерживаемая структура.
+- Стандартизированные файлы сообщества и вклада.
+- Единый стиль документации во всех репозиториях аккаунта.
 
+## EN Quick Start
+Import schema and seed files into PostgreSQL.
 
-<table>
+## RU Быстрый старт
+Import schema and seed files into PostgreSQL.
 
+## EN Project Structure
+- .github/ - templates, policy files, CI config.
+- Source files and assets are stored in repository root or feature directories.
 
-<tr>
+## RU Структура проекта
+- .github/ - шаблоны, policy-файлы, конфиг CI.
+- Исходники и ресурсы находятся в корне или профильных директориях.
 
+## EN Roadmap
+- Improve test coverage and automation.
+- Keep docs aligned with actual project behavior.
 
-<td><b>✨ Что умеет</b><br/>Короткий список возможностей, ориентированных на ценность.</td>
+## RU Планы
+- Расширять покрытие тестами и автоматизацией.
+- Поддерживать документацию в актуальном состоянии.
 
+## EN Contributing
+See .github/CONTRIBUTING.md.
 
-<td><b>🧠 Технологии</b><br/>Стек, ключевые решения, нюансы безопасности.</td>
+## RU Вклад
+См. .github/CONTRIBUTING.md.
 
-
-<td><b>🖼️ Демо</b><br/>Скриншот/гиф или ссылка на Pages.</td>
-
-
-</tr>
-
-
-</table>
-
-
-
-
-
-> [!TIP]
-
-
-> Репозиторий оформлен по правилам: Conventional Commits, SemVer, CHANGELOG, SECURITY policy и CI.
-
-
-> Секреты — только через `.env`/секреты репозитория.
-
-
-
-
-
-
-
-
-<p align="left">
-
-
-  <img alt="build" src="https://img.shields.io/github/actions/workflow/status/ShapArt/db-music-store/ci.yml?label=CI&logo=githubactions">
-
-
-  <img alt="license" src="https://img.shields.io/github/license/ShapArt/db-music-store">
-
-
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/ShapArt/db-music-store">
-
-
-  <img alt="issues" src="https://img.shields.io/github/issues/ShapArt/db-music-store">
-
-
-  <img alt="stars" src="https://img.shields.io/github/stars/ShapArt/db-music-store?style=social">
-
-
-</p>
-
-
-
-
-
-
-
-
-Короткая демо-реализация: схема PostgreSQL + docker-compose + документация.
-
-
-Исходный отчёт см. в `docs/source.docx` (содержит описание ПД/диаграммы).
-
-
-
-
-
-## Быстрый старт
-
-
-```bash
-
-
-docker compose up -d
-
-
-# psql: postgres://postgres:postgres@localhost:5432/music_store
-
-
-# pgAdmin: http://localhost:5050 (admin@local / admin)
-
-
-```
-
-
-
-
-
-## Структура
-
-
-- `sql/schema.sql` — сущности: products, customers, orders, order_items, suppliers, returns
-
-
-- `docker-compose.yml` — Postgres + pgAdmin
-
-
-- `docs/` — исходная работа + краткие конспекты
-
-
-
-
-
-## Архитектура
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Конфигурация
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Тесты
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Roadmap
-
-
-
-
-
-*Заполнить по мере развития проекта.*
+## License / Лицензия
+See LICENSE.
