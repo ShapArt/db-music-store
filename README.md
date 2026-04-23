@@ -1,42 +1,46 @@
 # db-music-store
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## EN
-Educational PostgreSQL DB with schema/seed/queries
+db-music-store — practical engineering project by ShapArt.
 
-This repository follows a modern professional standard: clear onboarding, strong documentation, and predictable contribution flow.
+This repository is part of a modern, portfolio-grade GitHub standard: strong structure, clear onboarding, and predictable contribution flow.
 
 ## RU
-Educational PostgreSQL DB with schema/seed/queries
+db-music-store — practical engineering project by ShapArt.
 
-Репозиторий оформлен по современному профессиональному стандарту: понятный старт, хорошая документация и предсказуемый процесс вклада.
+Этот репозиторий оформлен в современном portfolio-стиле: сильная структура, понятный старт и прозрачный процесс вклада.
 
-## Key Features / Ключевые возможности
-- Clear onboarding and practical setup steps.
-- Standard community health files in .github/.
-- Scalable structure for future improvements and CI growth.
+## Highlights / Что важно
+- Fast onboarding with clear usage entry points.
+- Standardized `.github` health files and contribution rules.
+- Ready for scaling with CI, tests, and roadmap growth.
 
 ## Tech Stack / Технологии
-- PostgreSQL / SQL`n- Schema + seed + query workflows`n- Data practice playground
+- PostgreSQL / SQL
+- Schema + seed + query workflow
+- Data-oriented practice setup
 
 ## Quick Start / Быстрый старт
-- Import schema.sql`n- Import seed data`n- Run queries
+- Import schema
+- Load seed data
+- Run target queries
 
-## Project Layout / Структура
-- README.md - project overview and setup.
-- .github/ - policies, issue/PR templates, CI workflow.
-- Source files - implementation details and assets.
+## Structure / Структура
+- `README.md` - overview and usage entry point.
+- `.github/` - policies, templates, workflow config.
+- Source directories - implementation and assets.
 
 ## Roadmap / Планы
-- Improve verification and automated checks.
-- Expand examples and usage scenarios.
-- Keep documentation aligned with real behavior.
+- Improve verification and automation coverage.
+- Expand examples and practical scenarios.
+- Keep docs synchronized with real behavior.
 
 ## Contributing / Вклад
-See .github/CONTRIBUTING.md.
+See `.github/CONTRIBUTING.md`.
 
 ## License / Лицензия
-See LICENSE.
+See `LICENSE`.
