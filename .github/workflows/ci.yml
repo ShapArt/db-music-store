@@ -1,27 +1,17 @@
-name: CI (Docker)
+name: CI
 
 on:
   push:
     branches: [ main ]
   pull_request:
-    branches: [ main ]
 
 jobs:
-  docker:
+  basic-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Detect Dockerfile
-        id: detect
-        shell: bash
-        run: |
-          if [ -f Dockerfile ]; then
-            echo "has_docker=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "has_docker=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Build
-        if: steps.detect.outputs.has_docker == 'true'
-        run: docker build -t repo-ci:latest .
+      - name: Validate markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          config-file: '.github/mlc_config.json'
