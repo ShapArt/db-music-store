@@ -7,32 +7,33 @@
 [![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## RU
-Educational PostgreSQL database project with schema, seed, and queries.
+**Слоган:** SQL, который понимаешь руками
 
-### Зачем этот проект
-- Учебная база данных и SQL-практика
-- Ориентирован на практическое использование, а не «учебный шаблон».
-- Поддерживает единый стандарт качества профиля и репозиториев.
+Учебный PostgreSQL-проект с живой схемой, seed-данными и реальными запросами.
+
+### Что даёт проект
+- Быстрый запуск и понятный вход в задачу.
+- Практичный сценарий использования, а не «игрушечный» демо-кейс.
+- Поддерживаемая структура для роста и автоматизации.
 
 ### Быстрый старт
-- Импортируй schema/seed
-- Проверь ключевые запросы
+- Открой README/структуру проекта.
+- Запусти команды из текущего репозитория.
+- Используй шаблоны в .github/ для стандартизированного вклада.
 
 ### Для кого
-- Разработчики backend/automation решений.
-- Команды, которым нужна понятная архитектура и предсказуемый запуск.
+- Инженеры, которым важен результат, а не шум.
+- Команды, ценящие скорость внедрения и качество кода.
 
 ## EN
-Educational PostgreSQL database project with schema, seed, and queries.
+**Tagline:** SQL, который понимаешь руками
 
-### Why this project
-- Учебная база данных и SQL-практика
-- Built for practical delivery, not just a demo.
-- Follows a consistent engineering quality standard.
+Educational PostgreSQL project with schema, seed data, and practical queries.
 
-### Quick start
-- Import schema and seed data
-- Run validation queries
+### Value proposition
+- Fast onboarding and clear project intent.
+- Production-minded structure for scaling and automation.
+- Consistent contribution and quality standards.
 
 ## Contribution
 See .github/CONTRIBUTING.md.
