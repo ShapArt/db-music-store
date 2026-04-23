@@ -2,9 +2,9 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/db-music-store/main/.github/social-preview.png)
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## RU
 **Слоган:** SQL, который понимаешь руками
@@ -40,4 +40,5 @@ See .github/CONTRIBUTING.md.
 
 ## License
 See LICENSE.
+
 
