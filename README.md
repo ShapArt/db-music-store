@@ -2,46 +2,40 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/db-music-store/main/.github/social-preview.png)
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
-
-## EN
-Educational PostgreSQL database project with schema, seed, and queries.
+[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## RU
 Educational PostgreSQL database project with schema, seed, and queries.
 
-## Why this project matters / Зачем нужен проект
-- Provides educational database architecture examples.
-- Covers schema, seed data, and query practice.
-- Helpful as onboarding material for SQL workflows.
+### Зачем этот проект
+- Учебная база данных и SQL-практика
+- Ориентирован на практическое использование, а не «учебный шаблон».
+- Поддерживает единый стандарт качества профиля и репозиториев.
 
-## Best for / Для кого
-- Students and junior backend/data engineers.
-- Mentors needing a practical SQL teaching scaffold.
+### Быстрый старт
+- Импортируй schema/seed
+- Проверь ключевые запросы
 
-## Quick Run / Быстрый запуск
-- Import schema and seed datasets
-- Execute target queries for validation
+### Для кого
+- Разработчики backend/automation решений.
+- Команды, которым нужна понятная архитектура и предсказуемый запуск.
 
-## Repository Compass / Навигация
-- README.md - product context and run flow.
-- .github/ - contribution standards, templates, CI policy.
-- Source directories - core implementation and assets.
+## EN
+Educational PostgreSQL database project with schema, seed, and queries.
 
-## Topics / Темы
-$topics
+### Why this project
+- Учебная база данных и SQL-практика
+- Built for practical delivery, not just a demo.
+- Follows a consistent engineering quality standard.
 
-## Contribution / Вклад
-See .github/CONTRIBUTING.md and open a focused PR.
+### Quick start
+- Import schema and seed data
+- Run validation queries
 
-## License / Лицензия
+## Contribution
+See .github/CONTRIBUTING.md.
+
+## License
 See LICENSE.
-
-
-
-
-
-
-
