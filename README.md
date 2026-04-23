@@ -2,10 +2,9 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/db-music-store/main/.github/social-preview.png)
 
-
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/db-music-store?style=for-the-badge)](https://github.com/ShapArt/db-music-store/blob/main/LICENSE)
 
 ## EN
 Educational PostgreSQL database project with schema, seed, and queries.
@@ -39,6 +38,9 @@ See .github/CONTRIBUTING.md and open a focused PR.
 
 ## License / Лицензия
 See LICENSE.
+
+
+
 
 
 
